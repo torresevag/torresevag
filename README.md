@@ -13,7 +13,7 @@
 
 <!--sobre mi-->
 <h2>✨ About me:</h2>
-<p></p>I'm a web developer with an special love for visual design.</p>
+<p></p>I'm a Software Developer in process... with an special love for visual design.</p>
 <p>I enjoy creating clean, functional, and soulful interfaces 🎨.</p>
 <p>I'm currently continuing to learn and explore new technologies 🚀.</p>
 

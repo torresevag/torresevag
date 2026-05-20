@@ -46,9 +46,9 @@
 <hr>
 <br>
 <!--estadistcas-->
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ed11cc2d29a5365ead7f2daba19da1998f399681e8a4fe99c656cb06d1dd90a3/68747470733a2f2f6769746875622d726561646d652d73746174732d7369676d612d666976652e76657263656c2e6170702f6170693f757365726e616d653d6665726e616e646f2d64656c72696f2673686f775f69636f6e733d74727565267468656d653d7261646963616c26636f756e745f707269766174653d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565"><img height="160" src="https://camo.githubusercontent.com/ed11cc2d29a5365ead7f2daba19da1998f399681e8a4fe99c656cb06d1dd90a3/68747470733a2f2f6769746875622d726561646d652d73746174732d7369676d612d666976652e76657263656c2e6170702f6170693f757365726e616d653d6665726e616e646f2d64656c72696f2673686f775f69636f6e733d74727565267468656d653d7261646963616c26636f756e745f707269766174653d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565" data-canonical-src="https://github-readme-stats-sigma-five.vercel.app/api?username=torresevag&amp;show_icons=true&amp;theme=radical&amp;count_private=true&amp;include_all_commits=true" style="max-width: 100%; height: auto; max-height: 160px;"></a>
 
-<!---<h2 align="center">📊 GitHub Stats</h2>
+
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github.com/torresevag/github-stats/raw/master/generated/languages.svg#gh-dark-mode-only" style="max-width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=torresevag&show_icons=true&theme=dracula" alt="Eva's GitHub stats" />
@@ -57,7 +57,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torresevag&layout=compact&theme=dracula" alt="Top Langs" />
 </p>
 <hr>
-<br>--->
+<br
 <!-- Redes -->
 <h2 align="center">🌐 Connect with me</h2>
 <p align="center">
